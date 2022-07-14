@@ -22,7 +22,7 @@
 | dactyl-generator-demo |![]()|[Github](https://github.com/yejianfengblue/dactyl-generator-demo)|&check; | &#10007; | &check; |
 | Redox manuform |![]()|[Thingiverse](https://www.thingiverse.com/thing:3503380)|&check; | &#10007; | &check; |
 
-# Collections
+# Generator
 | Name | Image | Link | Open source | kit/pcb | diy |
 |------|-------|------|-------------|---------|--------------|
 | Dometyl |![]()|[Github](https://github.com/geoffder/dometyl-keyboard)|&check; | &#10007; | &check; |
