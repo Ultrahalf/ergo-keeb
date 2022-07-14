@@ -20,13 +20,13 @@
 | Dactyl manu tide |![]()|[Github](https://github.com/Kravchenko32/dactyl-manu-tide)|&check; | &#10007; | &check; |
 | Dactyl ez print |![]()|[Github](https://github.com/ramonimbao/dactyl-ez2print)|&check; | &#10007; | &check; |
 | dactyl-generator-demo |![]()|[Github](https://github.com/yejianfengblue/dactyl-generator-demo)|&check; | &#10007; | &check; |
-| Redux manuform |![]()|[Thingiverse](https://www.thingiverse.com/thing:3503380)|&check; | &#10007; | &check; |
+| Redox manuform |![]()|[Thingiverse](https://www.thingiverse.com/thing:3503380)|&check; | &#10007; | &check; |
 
 # Collections
 | Name | Image | Link | Open source | kit/pcb | diy |
 |------|-------|------|-------------|---------|--------------|
-| Dometyl (family of kbs) |![]()|[Github](https://github.com/geoffder/dometyl-keyboard)|&check; | &#10007; | &check; |
-| cadquery Dactyl(family of kbs) |![]()|[Github](https://github.com/joshreve/dactyl-keyboard)|&check; | &#10007; | &check; |
+| Dometyl |![]()|[Github](https://github.com/geoffder/dometyl-keyboard)|&check; | &#10007; | &check; |
+| cadquery Dactyl |![]()|[Github](https://github.com/joshreve/dactyl-keyboard)|&check; | &#10007; | &check; |
 
 # Kits
 | Name | Image | Link | Open source | kit/pcb | diy |
