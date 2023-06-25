@@ -43,7 +43,7 @@
 (will put this in table soon)
 - [hummingbird](https://github.com/PJE66/hummingbird)
 - [balbuzard](https://github.com/brow/balbuzard)
-- [osprette](https://github.com/smores56/osprette)
+- [osprette](https://github.com/smores56/osprette) [osprette v3](https://github.com/smores56/osprette-v3)
 - [Tipper-TF](https://github.com/weteor/Tipper-TF)
 - [cyril279 keyboards](https://github.com/cyril279/keyboards)
 - [type c](https://github.com/somepin/type-c)
@@ -52,6 +52,7 @@
 - [chocV](https://github.com/brickbots/chocV) and [slabV](https://github.com/brickbots/slabv)
 - [ghoul](https://github.com/tzarc/ghoul) by tzarc
 - [trochilidae](https://github.com/jcmkk3/trochilidae)
+- [yacc46](https://github.com/1m38/keyboards/tree/main/yacc46)
 
 
 # Split flat 
