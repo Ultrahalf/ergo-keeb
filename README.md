@@ -29,6 +29,7 @@
 | wizergo | [Github](https://github.com/terryorchard/keyb/tree/main/wizergo) | &check; | &#10007; | &check; | &check; | &#10007; | &#10007; | 36 + 2 | &#10007; |
 | daqtyl |[Github](https://github.com/uqs/daqtyl)|&check; | &#10007; | &check; | &#10007; | &#10007; | &#10007; | custom | &#10007; |
 | Rommana | [Github](https://github.com/AlaaSaadAbdo/Rommana)|&check; | - | - | - | - | - | - | - |
+| flow | [Github](https://github.com/jsallan/flow) |&check; | - | - | - | - | - | - | - |
 
 
 
